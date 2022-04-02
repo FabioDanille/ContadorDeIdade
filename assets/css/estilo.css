@@ -1,0 +1,42 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font: normal 15pt;
+}
+
+body {
+    background: url(/CursoJavaScripteTypeScript-UDEMY/Projetos/ContagemIdadeRepositorio/assets/img/fundo.jpg) center no-repeat;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.671);
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
+
+.verificar:hover{
+    color: blue;
+    background: aqua;
+    border-radius: 5px;
+}
+
+.verificar{
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#txtano{
+    width: 180px;
+}
